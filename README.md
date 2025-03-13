@@ -46,6 +46,8 @@ Me chamo guilherme e tenho 18 anos. Conclui meu ensino médio no Sesi, e no mome
 <br/>
 <br/>
 
+---
+
 ### Estatisticas 🌐
 
 ---
