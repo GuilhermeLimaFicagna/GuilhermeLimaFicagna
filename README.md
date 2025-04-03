@@ -56,7 +56,7 @@ Me chamo guilherme e tenho 18 anos. Conclui meu ensino médio no Sesi, e no mome
 
 <img 
     align="left"
-    alt="Github Statss"
+    alt="Github Stats"
     height="200"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=GuilhermeLimaFicagna&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
@@ -67,5 +67,5 @@ Me chamo guilherme e tenho 18 anos. Conclui meu ensino médio no Sesi, e no mome
     alt="Github Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLimaFicagna&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLimaFicagna&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
 />
