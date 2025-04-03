@@ -1,6 +1,6 @@
 # 👨‍💻 Guilherme de Lima Ficagna 🍻
 
-**`Talvez um desenvolvedor Full-Steak`**
+**`Talvez um desenvolvedor Full-stack`**
 
 ---
 
