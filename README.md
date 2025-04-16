@@ -1,6 +1,6 @@
-# 👨‍💻 Guilherme de Lima Ficagna 🍻
+# 👨‍💻 Guilherme de Lima Ficagna 
 
-**`Talvez um desenvolvedor Full-stack`**
+**`Futuro desenvolvedor Full-stack`**
 
 ---
 
