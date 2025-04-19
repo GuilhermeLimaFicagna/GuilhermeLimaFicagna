@@ -12,34 +12,39 @@ Me chamo guilherme e tenho 18 anos. Conclui meu ensino médio no Sesi, e no mome
 
 <img
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="PYTHON"
+    title="PYTHON"
     width=33px
-    style="padding-rigth: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
 />
 
 <img
     align="left"
-    title="Html"
+    title="JAVA"
     width=33px
-    style="padding-rigth: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"   
 />
+
+
+<img
+    align="left"
+    title="CSHARP"
+    width=31px
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+          
 
 <img
     align="left"
     title="Html"
-    width=32px
-    style="padding-rigth: 10px;"
+    width=33px
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
 />
 
 <img
     align="left"
-    title="Html"
-    width=32px
-    style="padding-rigth: 10px;"
+    title="CSS"
+    width=33px
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
 />
           
