@@ -4,7 +4,7 @@
 
 ---
 
-Me chamo guilherme e tenho 18 anos. Conclui meu ensino médio no Sesi, e no momento estou cursando engenharia de software na Uni-brasil. Estou na jornada de aprender cada vez mais no mundo da programação. Nesse perfil espero postar não muitos, mais varios dos meus futuros projetos.
+Me chamo guilherme e tenho 19 anos. Conclui meu ensino médio no Sesi, e no momento estou cursando engenharia de software na Uni-brasil. Estou na jornada de aprender cada vez mais no mundo da programação. Nesse perfil espero postar não muitos, mais varios dos meus futuros projetos.
 
 ---
 
