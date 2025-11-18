@@ -1,6 +1,6 @@
 # 👨‍💻 Guilherme de Lima Ficagna 
 
-**`Desenvolvedor Full-stack`**
+**`Software Engineer`**
 
 ---
 
