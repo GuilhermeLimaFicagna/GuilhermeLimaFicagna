@@ -8,54 +8,11 @@ Me chamo guilherme e tenho 19 anos. Conclui meu ensino médio no Sesi, e no mome
 
 ---
 
-### linguagens ☝️
+### 📌 linguagens e tecnologias
 
-<img
-    align="left"
-    title="PYTHON"
-    width=33px
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
-/>
-
-<img
-    align="left"
-    title="JAVA"
-    width=33px
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"   
-/>
-
-
-<img
-    align="left"
-    title="CSHARP"
-    width=31px
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-          
-
-<img
-    align="left"
-    title="Html"
-    width=33px
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
-/>
-
-<img
-    align="left"
-    title="CSS"
-    width=33px
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
-/>
-
-<img
-    align="left"
-    title="javaScript"
-    width=30px
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-  
-<br/>
-<br/>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,cs,html,css,javascript,mysql,git,vscode,visualstudio"/>
+</p>
 
 ---
 
