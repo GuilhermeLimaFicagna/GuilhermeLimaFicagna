@@ -11,7 +11,7 @@ Me chamo guilherme e tenho 19 anos. Conclui meu ensino médio no Sesi, e no mome
 ### 📌 linguagens e tecnologias
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,cs,html,css,javascript,react,mysql,sqlserver,git,vscode,visualstudio"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,cs,html,css,javascript,react,nodejs,mysql,sqlserver,git,vscode,visualstudio"/>
 </p>
 
 ---
